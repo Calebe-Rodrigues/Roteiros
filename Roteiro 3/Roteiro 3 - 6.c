@@ -43,7 +43,7 @@ int main(void){
             }
     }
 
-    printf("\nO melhor jogador foi o número %d, com %d votos, correspondendo a %.1lf%% do total de votos.", melhor, maior, Pjogador(nVotos, maior));
+    printf("\nO melhor jogador foi o numero %d, com %d votos, correspondendo a %.1lf%% do total de votos.", melhor, maior, Pjogador(nVotos, maior));
 
     return 0;
 }
