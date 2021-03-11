@@ -1,4 +1,4 @@
 # Roteiros
 
-Repositorio com as repostas dos roteiros.
-... Talvez n�o fosse t�o necessario assim ler isso.
+Repositorio com as repostas dos roteiros(listas de exercícios) de introdução a programação.
+... Talvez não fosse tão necessario assim ler isso.
